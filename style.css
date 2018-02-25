@@ -40,7 +40,7 @@ body {
 }
 
 #banner .content h1 {
-  border: 3px solid #ddcdcd;
+  border: 3px solid white;
     border-radius: 10px;
   position: relative;
   letter-spacing: 2px;
